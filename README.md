@@ -28,8 +28,8 @@
 
 1. Clone repo này về máy:
 
-git clone https://github.com/yourusername/event-ticketing-backend.git
-cd event-ticketing-backend
-docker compose up -d
+git clone https://github.com/tri-0412/ticket-backend.git
+- cd event-ticketing-backend
+- docker compose up -d
 ## Kiểm tra container đã chạy
 docker ps
