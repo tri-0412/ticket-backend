@@ -27,8 +27,10 @@
 ## Cách chạy
 
 1. Clone repo này về máy với dòng lệnh:
+      ```bash
 git clone https://github.com/tri-0412/ticket-backend.git
 - cd ticket-backend
 - docker compose up -d
+      ```
 ## Kiểm tra container đã chạy
 docker ps
