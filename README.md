@@ -26,8 +26,7 @@
 
 ## Cách chạy
 
-1. Clone repo này về máy:
-
+1. Clone repo này về máy với dòng lệnh:
 git clone https://github.com/tri-0412/ticket-backend.git
 - cd ticket-backend
 - docker compose up -d
